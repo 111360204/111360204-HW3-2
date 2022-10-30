@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\大學程式\作業區\5.35\5.35\5.35\source.cpp(21): warning C4018: '<': signed/unsigned 不相符
+d:\大學程式\作業區\5.35\5.35\5.35\source.cpp(27): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'unsigned __int64'
+  d:\大學程式\作業區\5.35\5.35\5.35\source.cpp(27): note: 請考慮在格式字串中使用 '%lld'
+  d:\大學程式\作業區\5.35\5.35\5.35\source.cpp(27): note: 請考慮在格式字串中使用 '%I64d'
+d:\大學程式\作業區\5.35\5.35\5.35\source.cpp(14): warning C4715: 'fib': 不是所有控制路徑都傳回值
+  5.35.vcxproj -> D:\大學程式\作業區\5.35\5.35\Debug\5.35.exe
